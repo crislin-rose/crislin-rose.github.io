@@ -5,14 +5,14 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #f9f9f9;
-  color: #333333;
+  background-color: #731D37;
+  color: white;
 }
 .container {
   max-width: 800px;
   margin: auto;
   padding: 20px;
-  background-color: #ffffff;
+  background-color: #C77763;
 }
 header {
   text-align: center;
@@ -28,7 +28,7 @@ h1 {
   margin-bottom: 30px;
 }
 h2 {
-  color: #444444;
+  color: #9F2D45;
   border-bottom: 1px solid #cccccc;
   padding-bottom: 5px;
   margin-top: 30px;
@@ -37,7 +37,7 @@ ul {
   padding-left: 20px;
 }
 a {
-  color: #0077cc;
+  color: #ffffff;
   text-decoration: none;
 }
 a:hover {
@@ -97,7 +97,7 @@ a:hover {
 /* styling for header.html */
 .navbar {
   width: 100%;
-  background-color: #333333;
+  background-color: #C77763;
   color: white;
   padding: 10px 10px;
 }
