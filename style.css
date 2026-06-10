@@ -5,14 +5,14 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #731D37;
+  background-color: #F7B6B1;
   color: white;
 }
 .container {
   max-width: 800px;
   margin: auto;
   padding: 20px;
-  background-color: #C77763;
+  background-color: #B46A7D;
 }
 header {
   text-align: center;
@@ -23,12 +23,15 @@ header img {
   border-radius: 50%;
 }
 h1 {
+  font-family: 'Fleur De Leah', cursive;
+  font-size: 100px;
   margin: 10px 0 5px;
   text-align: center;
   margin-bottom: 30px;
 }
 h2 {
-  color: #9F2D45;
+  font-family: 'gelasio', serif;
+  color: #F7B6B1;
   border-bottom: 1px solid #cccccc;
   padding-bottom: 5px;
   margin-top: 30px;
@@ -97,9 +100,9 @@ a:hover {
 /* styling for header.html */
 .navbar {
   width: 100%;
-  background-color: #C77763;
+  background-color: #B46A7D;
   color: white;
-  padding: 10px 10px;
+  padding: 50px 50px;
 }
 .navbar nav {
   display: flex;
@@ -112,15 +115,6 @@ a:hover {
 .spacer {
   height: 20px;
 }
-    .gallery {
-      font-family: sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
 
     .feature-box {
       display: flex;
@@ -156,7 +150,7 @@ a:hover {
     }
     .nav-buttons button {
       background-color: #333333;
-      color: white;
+      color: rgb(0, 0, 0);
       border: none;
       padding: 0.75rem 1.5rem;
       border-radius: 0.5rem;
